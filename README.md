@@ -1,2 +1,2 @@
-# W-I-P tallui-app-components
-TallUI App Components - renderless UI components for your next Laravel webapp
+# TallUI App Components
+W-I-P - renderless UI components for your next Laravel webapp
